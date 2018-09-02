@@ -1,0 +1,156 @@
+/* 
+    Document   : christrees.css
+    Created on : July 17, 2011, 9:20:23 AM
+    Author     : ChrisT
+    Description:
+        christrees.css used by index.html on christrees.com
+        target tag is id 
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+   Put notes here and the IDE will pick up crap
+   I also need to get the auto documenting stuff going so you can see that
+
+<!-- Special Thanks goes to -->
+<!-- http://www.cssplay.co.uk/articles/imagemap/  for the image overlay pattern -->
+<!-- http://www.sumopaint.com/app/ instead of using paint-->
+*/
+{
+	margin: 0;
+	padding: 0;
+}
+body {
+  font-family: tahoma; arial, sans-serif;
+  }
+  /*
+#christbackground {
+	//position:absolute;
+	//top:35px;
+	width:688px;
+	height:470px;
+	z-index:0;
+	border:0px;
+	background-image:url(../images/leaf-02.jpg);
+	background-repeat:no-repeat;
+} */
+/* set the size of the definition list <dl> and add the background image */
+#imap {
+  display:block; 
+  width:688px; 
+  height:470px; 
+  background:url(../images/leaf-02.jpg) no-repeat; 
+  position:absolute;
+  }
+  /* set up the definition list <dt><a> to hold the background image for the hover state */
+#imap a#title {
+  display:block; 
+  width:688px; 
+  height:0; 
+  padding-top:470px; 
+  overflow:hidden; 
+  position:absolute; 
+  left:0; 
+  top:0; 
+  background:transparent url(../images/leaf-03_hover.jpg) no-repeat 470px 688px; 
+  cursor:default;
+  }
+/* the hack for IE pre IE6 */
+* html #imap a#title {
+  height:470px;
+  he\ight:0;
+  }
+  #imap a#title:hover {
+  background-position: 0 0; 
+  z-index:10;
+  }
+  /* place the <dd>s in the correct absolute position */
+#imap dd {
+  position:absolute; 
+  padding:0; 
+  margin:10px;
+  }
+#imap #pic4 {
+  left:280px; 
+  top:290px; 
+  z-index:20;
+  }
+#imap #pic3 {
+  left:450px; 
+  top:190px; 
+  z-index:20;
+  }
+#imap #pic2{
+  left:80px; 
+  top:200px; 
+  z-index:20;
+  }
+#imap #pic1 {
+  left:220px; 
+  top:50px; 
+  z-index:20;
+  }
+  /* style the <dd><a> links physical size and the background image for the hover */
+#imap a#looseleaf {
+  display:block; 
+  width:200px; 
+  height:300px; 
+  background:transparent url(../images/lls.png) -2000px -300px no-repeat; 
+  background-size: 100%;
+  /*background:transparent url(../images/leaf-02_hover.jpg) no-repeat 470px 688px; */
+  text-decoration:none; 
+  z-index:20;
+  }
+  #imap a#blog {
+  display:block; 
+  width:200px; 
+  height:150px; 
+  background:transparent url(../images/clog.png) -150px -100px no-repeat; 
+  background-size: 100%;
+  /*background:transparent url(../images/leaf-02_hover.jpg) no-repeat 470px 688px; */
+  text-decoration:none; 
+  z-index:20;
+  }
+  #imap a#contact {
+	display:block; 
+	width:170px; 
+	height:130px; 
+	background:transparent url(../images/contact.png) no-repeat -150px -120px; 
+	background-size: 100%;
+	text-decoration:none; 
+	z-index:20;
+  }	  
+  #imap a#cat9 {
+	display:block; 
+	width:200px; 
+	height:100px; 
+	background:transparent url(../images/worksite.png) no-repeat 100px 100px;
+	background-size: 100%;
+	text-decoration:none; 
+	z-index:20;
+  }	  
+  /* style the span text so that it is not initially displayed */
+#imap a span, #imap a:visited span {
+  display:none;
+  }
+  /* move the link background image to position 0 0 when hovered */
+#imap a#cat9:hover, #imap a#looseleaf:hover, #imap a#blog:hover, #imap a#contact:hover {
+  background-position:0 0;
+  }
+  /* define the common styling for the span text */
+#imap a:hover span {
+  position:absolute;  
+  width:200px; 
+  display:block; 
+  font-family:arial; 
+  font-size:12px; 
+  background:#fff; 
+  color:#000; 
+  border:1px solid #000; 
+  padding:5px;
+  }
+/* the hack for IE pre IE6 */
+* html #imap a:hover span {
+  width:400px; w\idth:388px;
+  }
