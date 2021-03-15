@@ -10,7 +10,7 @@ The best traditional work history information about myself is on [https://www.li
 # Experience
 The following is text from the Linkedin Profile PDF.  Each work experience is linked to additional detail if availible.
 
-## [CAT9, LLC](./resume201804-cat9/)
+## [CAT9, LLC](./resume201804-cat9)
 What is next Research
 ### April 2018 - Present (3 years)
 In a Place, out in Space
@@ -22,7 +22,7 @@ In a Place, out in Space
 - Researching building Blockchain foundations for Edge Communities. 
 - Researching who I should work with next.
 
-## [Mail Services, LLC](./resume201208-msllc/)
+## [Mail Services, LLC](./resume201208-msllc)
 Research Developer
 ### August 2012 - April 2018 (5 years 9 months)
 
@@ -31,7 +31,7 @@ Research Developer
 - Researched storage migration solutions. 
 - Evaluated production site maintenance processes. The site was PHP based with access to restrictedstorage, networks, and SQL backend database.
 
-## [OvalPath](./resume201104-ovalpath/)
+## [OvalPath](./resume201104-ovalpath)
 Sr. Software Engineer
 San Jose, CA 95112 and Cedar Fall, IA 50613
 
@@ -44,7 +44,7 @@ Social Mobile communications platform serving the commercial nuclear power marke
 
 [Acquired by CurtissWright](http://www.marketwired.com/press-release/curtisswright-flow-control-acquires-ovalpath-nyse-cw-1837177.htm)
 
-## [CAT Services / Croft Utility Partners](./resume200903-cat/)
+## [CAT Services / Croft Utility Partners](./resume200903-cat)
 Consultant / Founder
 Cedar Fall, IA 50613
 
@@ -58,7 +58,7 @@ a locally relevant, economically maintainable and socially acceptable way.
 These efforts lead us to integration of power, water, sewer and emergency
 communications systems.
 
-## [Grasshorse LLC](./resume2008-grasshorse/)
+## [Grasshorse LLC](./resume2008-grasshorse)
 Technology / Grant Consultant
 ### June 2008 - February 2009 (9 months)
 Embedded systems, software automation, and process management.
