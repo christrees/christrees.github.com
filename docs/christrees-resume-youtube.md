@@ -7,6 +7,9 @@ The best traditional work history information about myself is on [https://www.li
 - [Linkedin Profile - Chris Trees](https://www.linkedin.com/in/christrees/)
 - [Linkedin Profile PDF - Chris Trees](./LinkedinProfile-ChrisTrees.pdf)
 - [Github christrees.github.com](https://github.com/christrees/christrees.github.com)
+- [Youtube - Resume - Chris Trees](https://youtu.be/Dv2C0_mqQvk)
+
+<iframe src="https://www.youtube.com/embed/Dv2C0_mqQvk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Experience
 The following is text from the Linkedin Profile PDF.  Each work experience is linked to additional detail if availible.
