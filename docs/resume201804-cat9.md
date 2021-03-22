@@ -16,7 +16,7 @@ In a Place, out in Space
 ---
 
 ### CAT9, LLC expanded detail
-Historically, **CAT Services** is my default consulting and startup entity.  **CAT9, LLC** and the associated domain [https://www.cat9.com/](https://www.cat9.com/) is an Iowa based LLC business container for all my edge network technology efforts.  
+Historically, **CAT Services** is my default consulting and startup entity.  **CAT9, LLC** and the associated domain [https://www.cat9.com/](https://www.cat9.com/) is an Iowa based LLC business container for all my edge network technology efforts.  CAT9 was created to move and maintain compute intellegence onto an autonomous edge network.  A smart edge for the network of things frontier.  
 
 #### Research and Development ASIC Forge.
 ASIC Forge is technology service startup for data center ASIC miner deployments.  The founder and CEO is [John Michael Jepson](https://www.linkedin.com/in/john-michael-jepson-17a9a9a5/).  John and I worked together on the [Grundy Center Electric Co-Op Building](https://miningstore.com/case-study/biostar-solar-farm-bitcave-4-2/) Deployment for [The Mining Store](https://miningstore.com/).  I am working with John and his team to establish operational monitoring, maintainace and repair of ASIC miners running ARM embedded server boards.  The goal of ASIC Forge is to provide ASIC fleet managers with onsite service and SLA metrics that demonstrate tangible ROI.  
@@ -31,7 +31,7 @@ ASIC Forge is technology service startup for data center ASIC miner deployments.
 [Digital Rebar](https://rackn.com/rebar/) from [Rackn](https://rackn.com) Chief Solutions Architect [Shane Gibson](https://www.linkedin.com/in/sygibson/) founder and CEO [Rob Hirschfeld](https://www.linkedin.com/in/rhirschfeld/)  
 
 #### Researching automated infrastructure deployment and USDA broadband efforts for small rural communities. 
-In reality, the efforts with various state and federal investments have never really been with the time.  But like this resume project effort, it has core documentational processes I feel are fundamental to successful practices.
+In reality, the efforts with various state and federal investments have a low probablity of success.  But like a resume, the grant documentational processes may expose an oppertunity hidden behind problems the grants are intended to fund.  
 
 #### Researching building Blockchain foundations for Edge Communities. 
 [Grundy Center Electric Co-Op Building](https://miningstore.com/case-study/biostar-solar-farm-bitcave-4-2/) Deployment for [The Mining Store](https://miningstore.com/).  My personal test site for progress [melrose site - test.cat9.com](https://test.cat9.com/)
