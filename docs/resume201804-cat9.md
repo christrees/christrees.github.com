@@ -30,7 +30,7 @@ ASIC Forge is technology service startup for data center ASIC miner deployments.
 In reality, the efforts with various state and federal investments have never really been with the time.  But like this resume project effort, it has core documentational processes I feel are fundamental to successful practices.
 
 #### Researching building Blockchain foundations for Edge Communities. 
-[Grundy Center Electric Co-Op Building](https://miningstore.com/case-study/biostar-solar-farm-bitcave-4-2/) Deployment for [The Mining Store](https://miningstore.com/)
+[Grundy Center Electric Co-Op Building](https://miningstore.com/case-study/biostar-solar-farm-bitcave-4-2/) Deployment for [The Mining Store](https://miningstore.com/).  My personal test site for progress [melrose site - test.cat9.com](https://test.cat9.com/)
 
 #### Researching who I should work with next.
 
