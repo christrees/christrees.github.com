@@ -28,7 +28,13 @@ ASIC Forge is technology service startup for data center ASIC miner deployments.
 [Steve Jennings](https://www.linkedin.com/in/steve-jennings-8288b7b/) [Grasshorse Animation Studios](https://grasshorse.com/)
 
 #### Researching SDN, SDS and CI/CD methods for Bare Metal infrastructure. 
-[Digital Rebar](https://rackn.com/rebar/) from [Rackn](https://rackn.com) Chief Solutions Architect [Shane Gibson](https://www.linkedin.com/in/sygibson/) founder and CEO [Rob Hirschfeld](https://www.linkedin.com/in/rhirschfeld/)  
+[DRP by Digital Rebar](https://rackn.com/rebar/) from [Rackn](https://rackn.com) Chief Solutions Architect [Shane Gibson](https://www.linkedin.com/in/sygibson/) founder and CEO [Rob Hirschfeld](https://www.linkedin.com/in/rhirschfeld/)  
+----
+To learn [DRP by Digital Rebar](https://rackn.com/rebar/) I started an automatic UX test of the DRP webapp using Cucumber and Selenium to access webdriver.
+- [Youtube - drpfeature - Automated testing for DRP React App](https://www.youtube.com/watch?v=yBVuIWMREWQ&list=PLz24SCapAVurPUfZmRDaJcR6TaHpVXCab)
+- [Github - drpfeature](https://github.com/ctrees/drpfeature/)
+- [ReadTheDocs - drpfeature](https://drpfeature.readthedocs.io/en/latest/)
+
 
 #### Researching automated infrastructure deployment and USDA broadband efforts for small rural communities. 
 In reality, the efforts with various state and federal investments have a low probablity of success.  But like a resume, the grant documentational processes may expose an oppertunity hidden behind problems the grants are intended to fund.  
