@@ -32,13 +32,12 @@ My relationship with [Grasshorse Animation Studios](https://grasshorse.com/) and
 - [http://ghlearn.2cld.net/](http://ghlearn.2cld.net/)
 
 #### Researching SDN, SDS and CI/CD methods for Bare Metal infrastructure. 
-[DRP by Digital Rebar](https://rackn.com/rebar/) from [Rackn](https://rackn.com) Chief Solutions Architect [Shane Gibson](https://www.linkedin.com/in/sygibson/) founder and CEO [Rob Hirschfeld](https://www.linkedin.com/in/rhirschfeld/)  
-----
+When I was researching various Software Defined ***fill in the blank*** technologies I looked into groups using PXE protocal and found [DRP by Digital Rebar](https://rackn.com/rebar/) from [Rackn](https://rackn.com).  Rackn co-founder and CEO [Rob Hirschfeld](https://www.linkedin.com/in/rhirschfeld/) had been doing lots of youtube videos and he impressed me with [no glory in helping ops](https://youtu.be/EfbrVEGjFWw?t=1) intro to DRP. Not long after, he hired Chief Solutions Architect [Shane Gibson](https://www.linkedin.com/in/sygibson/) who I soom meet via SLACK.  I got sucked into the community like a geek to cheetos... SO...  
+
 To learn [DRP by Digital Rebar](https://rackn.com/rebar/) I started an automatic UX test of the DRP webapp using Cucumber and Selenium to access webdriver.
 - [Youtube - drpfeature - Automated testing for DRP React App](https://www.youtube.com/watch?v=yBVuIWMREWQ&list=PLz24SCapAVurPUfZmRDaJcR6TaHpVXCab)
 - [Github - drpfeature](https://github.com/ctrees/drpfeature/)
 - [ReadTheDocs - drpfeature](https://drpfeature.readthedocs.io/en/latest/)
-
 
 #### Researching automated infrastructure deployment and USDA broadband efforts for small rural communities. 
 In reality, the efforts with various state and federal investments have a low probablity of success.  But like a resume, the grant documentational processes may expose an oppertunity hidden behind problems the grants are intended to fund.  
