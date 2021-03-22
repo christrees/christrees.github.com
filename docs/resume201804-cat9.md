@@ -16,7 +16,7 @@ In a Place, out in Space
 ---
 
 ### CAT9, LLC expanded detail
-Historically, **CAT Services** is my default consulting and startup entity.  **CAT9, LLC** and the associated domain [https://www.cat9.com/](https://www.cat9.com/) is an Iowa based LLC business container for all my edge network technology efforts.  CAT9 was created to move and maintain compute intellegence onto an autonomous edge network.  A smart edge for the network of things frontier.  
+Historically, **CAT Services** is my default consulting and startup entity.  **CAT9, LLC** and the associated domain [https://www.cat9.com/](https://www.cat9.com/) is an Iowa based LLC business container for all my edge network technology efforts.  CAT9 was created to move and maintain compute intellegence onto an autonomous edge network.  A smart edge for the network of things frontier.  The following is expanded detail for consulting research projects.
 
 #### Research and Development ASIC Forge.
 ASIC Forge is technology service startup for data center ASIC miner deployments.  The founder and CEO is [John Michael Jepson](https://www.linkedin.com/in/john-michael-jepson-17a9a9a5/).  John and I worked together on the [Grundy Center Electric Co-Op Building](https://miningstore.com/case-study/biostar-solar-farm-bitcave-4-2/) Deployment for [The Mining Store](https://miningstore.com/).  I am working with John and his team to establish operational monitoring, maintainace and repair of ASIC miners running ARM embedded server boards.  The goal of ASIC Forge is to provide ASIC fleet managers with onsite service and SLA metrics that demonstrate tangible ROI.  
@@ -40,7 +40,7 @@ To learn [DRP by Digital Rebar](https://rackn.com/rebar/) I started an automatic
 In reality, the efforts with various state and federal investments have a low probablity of success.  But like a resume, the grant documentational processes may expose an oppertunity hidden behind problems the grants are intended to fund.  
 
 #### Researching building Blockchain foundations for Edge Communities. 
-[Grundy Center Electric Co-Op Building](https://miningstore.com/case-study/biostar-solar-farm-bitcave-4-2/) Deployment for [The Mining Store](https://miningstore.com/).  My personal test site for progress [melrose site - test.cat9.com](https://test.cat9.com/)
+Due to my relationship with multiple rual community power and telecom utility providers, I was contacted to assist with the [Grundy Center Electric Co-Op Building](https://miningstore.com/case-study/biostar-solar-farm-bitcave-4-2/) Deployment for [The Mining Store](https://miningstore.com/).  My personal record for progress is at [melrose site - test.cat9.com](https://test.cat9.com/).  This was a younger team being creative and moving fast.  I ended up getting more involved in the core operational planning as they bumped into various difficulties along the way.  I have experience with high energy systems, networking and agricultural construction.  May seem like a funny combination but it was a good combination for the Melrose site.  Some of the guidance information is contained on a site I maintain at [http://aur.2cld.net/docs/](http://aur.2cld.net/docs/).
 
 #### Researching who I should work with next.
 
