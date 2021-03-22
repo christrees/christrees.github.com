@@ -15,7 +15,9 @@ In a Place, out in Space
 ---
 ---
 
-### CAT9, LLC expanded detail
+### CAT9, LLC - the expanded detail...
+If you don't get the "In a Place, out in Space", don't worry most don't.  It comes from [Kinks - In a space](https://youtu.be/dJsVsFcIee0?t=17).  If your concerned I would put a reference to a song in my resume, "I am not the Jedi you are looking for"... so move along cause this space is occupied.  ANYWAY...
+
 Historically, **CAT Services** is my default consulting and startup entity.  **CAT9, LLC** and the associated domain [https://www.cat9.com/](https://www.cat9.com/) is an Iowa based LLC business container for all my edge network technology efforts.  CAT9 was created to move and maintain compute intellegence onto an autonomous edge network.  A smart edge for the network of things frontier.  The following is expanded detail for consulting research projects.
 
 #### Research and Development ASIC Forge.
