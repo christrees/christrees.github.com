@@ -13,6 +13,7 @@ In a Place, out in Space
 - Researching who I should work with next.
 
 ### CAT9, LLC expanded detail
+Historically, **CAT Services** is my default consulting and startup entity.  **CAT9, LLC** and the associated domain [https://www.cat9.com/](https://www.cat9.com/) is an Iowa based LLC business container for all my edge network technology efforts.  
 
 #### Research and Development ASIC Forge.
 ASIC Forge is technology service startup for data center ASIC miner deployments.  The founder and CEO is [John Michael Jepson](https://www.linkedin.com/in/john-michael-jepson-17a9a9a5/).  John and I worked together on the [Grundy Center Electric Co-Op Building](https://miningstore.com/case-study/biostar-solar-farm-bitcave-4-2/) Deployment for [The Mining Store](https://miningstore.com/).  I am working with John and his team to establish operational monitoring, maintainace and repair of ASIC miners running ARM embedded server boards.  The goal of ASIC Forge is to provide ASIC fleet managers with onsite service and SLA metrics that demonstrate tangible ROI.  
