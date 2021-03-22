@@ -12,6 +12,9 @@ In a Place, out in Space
 - Researching building Blockchain foundations for Edge Communities. 
 - Researching who I should work with next.
 
+---
+---
+
 ### CAT9, LLC expanded detail
 Historically, **CAT Services** is my default consulting and startup entity.  **CAT9, LLC** and the associated domain [https://www.cat9.com/](https://www.cat9.com/) is an Iowa based LLC business container for all my edge network technology efforts.  
 
