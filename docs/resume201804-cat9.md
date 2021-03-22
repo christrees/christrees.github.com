@@ -18,7 +18,7 @@ In a Place, out in Space
 ASIC Forge is technology service startup for data center ASIC miner deployments.  The founder and CEO is [John Michael Jepson](https://www.linkedin.com/in/john-michael-jepson-17a9a9a5/).  John and I worked together on the [Grundy Center Electric Co-Op Building](https://miningstore.com/case-study/biostar-solar-farm-bitcave-4-2/) Deployment for [The Mining Store](https://miningstore.com/).  I am working with John and his team to establish operational monitoring, maintainace and repair of ASIC miners running ARM embedded server boards.  The goal of ASIC Forge is to provide ASIC fleet managers with onsite service and SLA metrics that demonstrate tangible ROI.  
 
 #### Researching AI learning feedback methods.
-An college from the past, [Ralph Aceves](https://www.linkedin.com/in/ralph-aceves-b1a397/) started a new company called [Hackerstrike](https://hackerstrike.com/).  Initially they did not have funding and his CEO and team could use help.  I assisted in providing hosting on a few server clusters I run out of [Grasshorse Animation Studios](https://grasshorse.com/).  Some of the early public templates are availible on [http://hs.2cld.net/](http://hs.2cld.net/).  When woring on a project such as hackerstrike, where I provide general technology selection and configuration.... 
+[Ralph Aceves](https://www.linkedin.com/in/ralph-aceves-b1a397/) started a new company [Hackerstrike](https://hackerstrike.com/).  I hosted the development server clusters and assisted the CTO with technology and deployment architectures.  Early public templates are availible on [http://hs.2cld.net/](http://hs.2cld.net/).  When woring with startups,  I provide general technology selection and configuration suggestions through open web documents.  
 
 #### Researching deployment for Blender grid rendering using Bare Metal infrastructure.
 [Steve Jennings](https://www.linkedin.com/in/steve-jennings-8288b7b/) [Grasshorse Animation Studios](https://grasshorse.com/)
@@ -33,3 +33,4 @@ In reality, the efforts with various state and federal investments have never re
 [Grundy Center Electric Co-Op Building](https://miningstore.com/case-study/biostar-solar-farm-bitcave-4-2/) Deployment for [The Mining Store](https://miningstore.com/)
 
 #### Researching who I should work with next.
+
