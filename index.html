@@ -9,6 +9,7 @@
 <!-- Global site tag (gtag.js) - Google Analytics -->
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125034519-1"></script>
+<script async src="https://js.stripe.com/v3/buy-button.js"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -21,6 +22,12 @@
 <style type="text/css"></style>
 </head>
 <body>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1Q48ELAJsTIdQNPrU76Tw4lA"
+  publishable-key="pk_live_51Q479LAJsTIdQNPrFg5GWLjlIzzuA6xPCxvAObx4dlS8dd1c7K3kvlaxmhrKVzvg0T8jqoOyWekL7FkMuW52tTdy00cgUJ8aJo"
+>
+</stripe-buy-button>
 <!--
   <hr/>
   For info about Dad, <a target="_blank" href="http://blog.christrees.com/dad/">Click http://blog.christrees.com/dad/</a>
@@ -59,14 +66,5 @@
  <dd id="pic1"><a id="contact" href="HTTP://wip.christrees.com"></a></dd> 
 
 </dl>
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
-
-<stripe-buy-button
-  buy-button-id="buy_btn_1Q48ELAJsTIdQNPrU76Tw4lA"
-  publishable-key="pk_live_51Q479LAJsTIdQNPrFg5GWLjlIzzuA6xPCxvAObx4dlS8dd1c7K3kvlaxmhrKVzvg0T8jqoOyWekL7FkMuW52tTdy00cgUJ8aJo"
->
-</stripe-buy-button>
 </body>
 </html>
